@@ -27,6 +27,7 @@ noise parameter. For example,
 1. Gaussian Noise
 2. Gamma Noise
 3. Skewed Gaussian etc.
+
 Depending on the nature and generation phenomenon of noise, it can be classified into
 several types,
 1. Thermal Noise
